@@ -1,6 +1,6 @@
 ## Olá, me chamo Wilson 👋
 
-## Desenvolvedor Web 
+## Desenvolvedor FullStack
 
 Apaixonado por tecnologia superando desafios da programação. 
 
